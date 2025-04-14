@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: ml-laba-rugi-api
-    runtime: python
-    plan: free
-    region: oregon
-    buildCommand: pip install -r requirements.txt
-    startCommand: python app.py
