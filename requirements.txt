@@ -6,3 +6,4 @@ numpy
 gdown
 joblib
 openpyxl
+plotly
